@@ -4,8 +4,11 @@ Deployed a Reddit Clone using Docker and Kubernetes, integrating Ingress for tra
 ![image](https://github.com/user-attachments/assets/a76563a0-f193-4004-b09d-dead8b8cd531)
 # Prerequisite:
 1.AWS EC2 instance — CI-Server (t2.medium) & Deployment-Server(t2.xlarge) with AMI -Ubuntu.
+
 2.Minikube
+
 3.Docker
+
 4.Kubectl
  # Start with the CI-Server. Connect by using EC2 Connect.
 # Update and install docker:
